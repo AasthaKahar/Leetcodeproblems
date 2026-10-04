@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/0001-two-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
