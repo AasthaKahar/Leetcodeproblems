@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [2409-count-days-spent-together](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/2409-count-days-spent-together) |
 ## Sorting
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/2409-count-days-spent-together) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/3863-minimum-operations-to-sort-a-string) |
