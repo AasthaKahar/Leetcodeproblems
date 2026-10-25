@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1254-number-of-closed-islands](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/1254-number-of-closed-islands) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
@@ -55,4 +56,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/AasthaKahar/Leetcodeproblems/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
